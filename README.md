@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @altunumut
 - 🌱 I’m currently learning .Net
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me umutaltun.com.tr
 
 <!---
